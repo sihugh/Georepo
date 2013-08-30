@@ -1,0 +1,23 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "Name": "O2 Arena", "Description": "<a href=\"https:\/\/www.google.co.uk\/search?q=rock+choir+at+the+o2&oq=rock+choir+at+the+o2&aqs=chrome.0.69i57j0j69i60j0l2j69i62.7609j0&sourceid=chrome&ie=UTF-8#q=rock+choir+o2&tbm=vid\">https:\/\/www.google.co.uk\/search?q=rock+choir+at+the+o2&oq=rock+choir+at+the+o2&aqs=chrome.0.69i57j0j69i60j0l2j69i62.7609j0&sourceid=chrome&ie=UTF-8#q=rock+choir+o2&tbm=vid<\/a>" }, "geometry": { "type": "Point", "coordinates": [ 0.003047, 51.503295, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Priors Court School Open Day", "Description": "Oh Happy Day Something Inside So Strong Dancing In The Street" }, "geometry": { "type": "Point", "coordinates": [ -1.298559, 51.459982, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Guinness World Record", "Description": "Venue: Brockhurst and Marlston House Schools Song: When You ' re Gone" }, "geometry": { "type": "Point", "coordinates": [ -1.238878, 51.443440, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Anvil Arts, Basingstoke", "Description": "When You ' re Gone Oh Happy Day Something Inside So Strong Waterloo You ' re So Vain" }, "geometry": { "type": "Point", "coordinates": [ -1.089381, 51.266945, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Newbury Christmas Lights", "Description": "Ain ' t No Mountain Anytime You Need A Friend Something Inside So Strong Where You Lead How Deep Is Your Love" }, "geometry": { "type": "Point", "coordinates": [ -1.323202, 51.400865, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Didcot Ladies ' Extravaganza", "Description": "Raising money for a local primary school" }, "geometry": { "type": "Point", "coordinates": [ -1.240642, 51.614469, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Thatcham FC", "Description": "Raising money for the Deaf Association" }, "geometry": { "type": "Point", "coordinates": [ -1.243575, 51.391051, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Flashmob! Bonn Square, Oxford", "Description": "Raising money for Comic Relief You ' re The Voice" }, "geometry": { "type": "Point", "coordinates": [ -1.259984, 51.751680, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Flashmob!  Festival Place, Basingstoke", "Description": "Raising money for Sport Relief Dancing In The Street" }, "geometry": { "type": "Point", "coordinates": [ -1.087359, 51.266048, 0.000000 ] } }
+
+]
+}
