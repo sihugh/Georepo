@@ -18,6 +18,8 @@
 { "type": "Feature", "properties": { "Name": "Flashmob! Bonn Square, Oxford", "Description": "Raising money for Comic Relief You ' re The Voice" }, "geometry": { "type": "Point", "coordinates": [ -1.259984, 51.751680, 0.000000 ] } }
 ,
 { "type": "Feature", "properties": { "Name": "Flashmob!  Festival Place, Basingstoke", "Description": "Raising money for Sport Relief Dancing In The Street" }, "geometry": { "type": "Point", "coordinates": [ -1.087359, 51.266048, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Didcot Christmas Market", "Description": "Ain ' t No Mountain Anytime You Need A Friend Something Inside So Strong Where You Lead How Deep Is Your Love" }, "geometry": { "type": "Point", "coordinates": [ -1.240236, 51.606807, 0.000000 ] } }
 
 ]
 }
